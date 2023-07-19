@@ -1,0 +1,32 @@
+body {
+    background-color: antiquewhite;
+    
+}
+img {
+    width: 690px;
+    display: inline;
+}
+.info {
+    background-color: azure;
+    margin: 0 auto;
+    width: 1255px;
+    padding: 105px 90px;
+    font-family: 'Raleway', sans-serif;
+}
+.about {
+    display: flex;
+    
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+
+}
+.socialNetworking {
+    background-color: lightslategray;
+    text-align: center;
+    
+}
